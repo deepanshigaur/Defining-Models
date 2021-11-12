@@ -23,4 +23,4 @@ def main():
     assert(s.image == "myimage.png")
     print("Test Complete!")
 
-main()
+main() 
