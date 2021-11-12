@@ -14,8 +14,6 @@ Grace days used for this assignment: 0
 
 Grace days remaining: 5/5
 
-None
-
 ## REFERENCES:
 None
 ## MISCELLANEOUS COMMENTS:
