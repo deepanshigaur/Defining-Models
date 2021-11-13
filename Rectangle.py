@@ -13,7 +13,7 @@ return: None
       '''
 Returns a string containing the x, y, width, and height of the rectangle.
 args: self(class)
-return: self.width(str)
+return: self.width(str), self.height(str), self.y(str), self.x(str)
       '''
       return "(x:"+str(self.x) + ", y=" + str(self.y) +")"+ ", height:" + str(self.height) + ", width:" + str(self.width)
 
